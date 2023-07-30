@@ -11,6 +11,5 @@ List of Algorithm applied to train and test the model are as follows:
 4. Naive Bayes
 5. Decision Tree
 
-We are making accuracy and prediction in Iris project through Iris Dataset.
-This is easy and understable for machine learning staters( Naive ).
+
 
